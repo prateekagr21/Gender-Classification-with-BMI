@@ -4,4 +4,5 @@ I managed to get a fair prediction score for this
 And then some
 Used random forest classifier in this 1
 hh
-Knn was also used in this one !
+Knn was also used in this one 
+Hyperparameters were taken care of 
